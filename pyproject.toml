@@ -1,3 +1,6 @@
 [project]
-name = "fuckit"
+name = "project_test_1"
 version = "0.0.1"
+
+[tool.setuptools.packages.find]
+where = ["aws"]
